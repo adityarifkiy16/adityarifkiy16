@@ -1,5 +1,6 @@
 <div align="center">
 <img src="assets/nahida.jfif" width="25%" align="right" />
+<img src="assets/adit.gif" width="25%" align="center" />
 <br><br>
 <pre>
     💼 Software Tester
